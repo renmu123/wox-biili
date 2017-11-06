@@ -1,0 +1,12 @@
+{
+    "ID":"D2D2C23B084D411DB66FE0C19D6C2J9D",
+    "ActionKeyword":"bili",
+    "Name":"哔哩哔哩",
+    "Description":"哔哩哔哩每日新番",
+    "Author":"renmu",
+    "Version":"1.0.0",
+    "Language":"python",
+    "Website":"https://github.com/renmu123/wox-",
+    "ExecuteFileName":"main.py",
+    "IcoPath":"Images\\bilibili.png"
+}
